@@ -9,3 +9,6 @@ python -m venv venv
 ```
 .\venv\Scripts\Activate.ps1
 ```
+
+# Download LLM Studio here: https://lmstudio.ai/
+# Load your models and start the server (may have to activate dev mode)
